@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-weight: lighter;
+    color:red;
+}
+img{
+width:450px;
+height:450px;   
+
+}
+.poop{
+color:red;
+text-align: center;
+}
+body{
+background-color: aqua;
+}
+a{
+    text-decoration: none;
+    color:white;
+
+}
+.paragraph{
+    text-align: center;
+    color:red;
+}
+.poo{
+    color:white;
+    font-size: 50px;
+
+}
+.pok{
+    font-size: 25px;
+    background-color: red;
+    color:white;
+}
+li{
+list-style-type: none;
+}
+h2{
+    text-align: center;
+    color:white;
+}
+.kop{
+    font-size: 25px;
+    background-color: yellowgreen;
+    color:red;
+}
+.jd{
+    font-size: 25px;
+    background-color: royalblue;
+    color:blue;
+}
